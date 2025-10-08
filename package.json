@@ -1,0 +1,23 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@uniswap/v3-sdk": "^3.10.2",
+    "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@ethersproject/abi": "^5.7.0",
+    "@openzeppelin/contracts": "^4.9.6",
+    "dotenv": "^16.4.7"
+  },
+  "scripts": {
+    "sn": "npx hardhat node --network hardhat",
+    "t": "npx hardhat test --network localhost"
+  }
+}
