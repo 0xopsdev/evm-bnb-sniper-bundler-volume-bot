@@ -167,6 +167,11 @@ Use at your own risk. The maintainers assume no responsibility for financial los
 #### https://bscscan.com/tx/0x8c870cf1721c2c765b45d2b13731bf384ec2e8020552aafb0436c01ded98f2ab
 #### https://bscscan.com/tx/0xb46d289c48d04dc6cc74849ecd9ef4fff6bf86aa3b16fc231d019b82c7789bc2
 
+## Tx links of bundler bot working
+#### https://bscscan.com/tx/0x0df64fc6eb251402ce647251945fb7dacedb305b1a178367dc3ec6e5a0680551  buy
+#### https://bscscan.com/tx/0xf26dc2542f437b7e7ed5d3b5a3a23f165ced33f4ca3c63ba98ea65346d8e7229  sell
+
+
 ## Future
 - Randomizing trading amount
 - Randomizing trading frequency (Buy/Sell)
